@@ -116,7 +116,8 @@
                                 <li><a href="#"> طراحی بروشور</a></li>
                                 <li><a href="#"> طراحی اینفو گرافی</a></li>
                                 <li><a href="#"> طراحی اینفو گرافی</a></li>
-
+                                <li><a href="#"> طراحی اینفو گرافی</a></li>
+{{--ouo--}}
                                 <br>
 
                                 <span><a href="#" style="margin-right:110px"> <i class="fa fa-arrow-left"></i>مشاهده کامل</a></span>
